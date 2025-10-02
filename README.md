@@ -48,17 +48,11 @@ Mental health is a growing global concern, yet many regions lack predictive tool
   - 📉 Bar charts for risk summaries
   - 🗺️ World maps for global mental health burden
   - 🔍 SHAP plots for feature importance
-
----
-
-## 🚀 Demo / Link
-👉 [Insert interactive dashboard or notebook link here]
-
 ---
 
 ## 🧪 How to Run
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/Cognitive-Wellbeing-Monitoring.git
+   git clone https://github.com/nwild505/Cognitive-Wellbeing-Monitoring
    cd Cognitive-Wellbeing-Monitoring
 
