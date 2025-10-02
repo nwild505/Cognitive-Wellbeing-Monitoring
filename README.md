@@ -1,4 +1,3 @@
-# Cognitive-Wellbeing-Monitoring
 # 🧠 Cognitive Wellbeing Monitoring
 
 ## 🌍 Project Overview
